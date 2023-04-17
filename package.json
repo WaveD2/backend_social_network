@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for WaveD",
+  "main": "src/main.ts",
+  "author": "WaveD",
+  "license": "MIT"
+}
